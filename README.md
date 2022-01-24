@@ -1,7 +1,7 @@
 # Hi, Myrto here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> #
-##### I’m interested in data mining, machine learning & chatbots #####
-##### I’m fascinated with back-end development #####
-##### I'd like to learn open source because I like collaborations and sharing knowledge #####
+##### I’m interested in data mining, machine learning & chatbots. #####
+##### I’m fascinated with back-end development. #####
+##### I'd like to learn open source because I like collaborations and sharing knowledge. #####
 ##### Find me on ![Linkedin Badge](https://img.shields.io/badge/-myrtoplevraki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myrto-plevraki-ab3a50208/) #####
 --------------
 ###### There are 10 types of people in the world. Those who get Binary and those who don't.. ######
