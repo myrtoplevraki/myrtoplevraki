@@ -2,7 +2,8 @@
 ##### I’m interested in data mining, machine learning & chatbots. #####
 ##### I’m fascinated with back-end development. #####
 ##### I'd like to learn open source because I like collaborations and sharing knowledge. #####
-##### Find me on ![Linkedin Badge](myrtoplevraki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myrto-plevraki-ab3a50208/) #####
+##### Find me on 	<a href="https://www.linkedin.com/in/myrto-plevraki-ab3a50208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="myrtoplevraki"></a>
+ #####
 --------------
 ###### There are 10 types of people in the world. Those who get Binary and those who don't.. ######
 ## Technical Skills ##
