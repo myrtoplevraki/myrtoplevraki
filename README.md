@@ -3,7 +3,7 @@
  #####
 ## Technical Skills ##
 • PHP • Laravel • Python • Django • Docker • AWS • MySQL • Bash • Git 
-• HTML • CSS • Bootstrap • Javascript • Java • C • C++ • MATLAB • Latex
+• HTML • CSS • Bootstrap • Javascript • Java • C • C++
 ## Languages ##
  - Greek
  - English
